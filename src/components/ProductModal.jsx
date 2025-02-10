@@ -26,8 +26,8 @@ function ProductModal() {
             <p className="text-sm font-light text-gray-400 mb-3">
               The offer is valid until April 3 or as long as stock lasts!
             </p>
-            <button class=" mb-3 w-full  bg-blue-700 text-white border-b-8 border-b-blue-700 rounded-lg group-hover:border-t-8 group-hover:border-b-0 group-hover:bg-blue-700 group-hover:border-t-blue-700 group-hover:shadow-lg">
-                <div class="px-8 py-4 duration-150 bg-blue-500 rounded-lg group-hover:bg-blue-700">
+            <button className=" mb-3 w-full  bg-blue-700 text-white border-b-8 border-b-blue-700 rounded-lg group-hover:border-t-8 group-hover:border-b-0 group-hover:bg-blue-700 group-hover:border-t-blue-700 group-hover:shadow-lg">
+                <div className="px-8 py-4 duration-150 bg-blue-500 rounded-lg group-hover:bg-blue-700">
                   Add to cart
                 </div>
             </button>
